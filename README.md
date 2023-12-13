@@ -14,8 +14,7 @@ This project utilizes text mining and natural language processing techniques to 
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Features
 
 - Upload the OSHA dataset for analysis.
@@ -51,8 +50,8 @@ TextBlob,
 NLTK.
 
 ## Contributions
-Sanjeeva Reddy Vulpala
-Chethan Maram
-Tayi Sri Harshini
-Bharath Upperla
-Tarun Sri Sai Arava
+Sanjeeva Reddy Vulpala, 
+Chethan Maram, 
+Tayi Sri Harshini, 
+Bharath Upperla, 
+Tarun Sri Sai Arava.
