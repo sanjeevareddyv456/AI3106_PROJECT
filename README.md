@@ -1,4 +1,4 @@
-# Accidents at construction Site Analysis Model by Using NLP and Text Mining 
+# Accidents at Construction Site Analysis Model by Using NLP and Text Mining 
 
 ## Overview
 
@@ -18,9 +18,9 @@ This project utilizes text mining and natural language processing techniques to 
 
 ## Features
 
-- Upload OSHA dataset for analysis.
+- Upload the OSHA dataset for analysis.
 - Preprocess data using text mining techniques.
-- Implement various machine learning algorithms for accident type prediction.
+- Implement various machine learning algorithms for accident-type prediction.
 - Visualize prediction results using graphs.
 - Extract dangerous objects using chunking techniques.
 
@@ -41,14 +41,15 @@ This project utilizes text mining and natural language processing techniques to 
 4. Extract dangerous objects from the dataset.
 
 ## Dependencies
-Python 3.x
-Tkinter
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-TextBlob
-NLTK
+Python 3.x,
+Tkinter,
+Pandas,
+NumPy,
+Matplotlib,
+Scikit-learn,
+TextBlob,
+NLTK.
+
 ## Contributions
 Sanjeeva Reddy Vulpala
 Chethan Maram
